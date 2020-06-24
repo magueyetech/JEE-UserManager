@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Modou:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Modou</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="userapp.war">
+      <element id="artifact" artifact-name="Modou:war exploded" />
+    </root>
+  </artifact>
+</component>

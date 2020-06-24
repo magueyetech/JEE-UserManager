@@ -1,0 +1,7 @@
+userapp\Services\IUser.class
+userapp\Controller\UserServlet.class
+userapp\Services\UserService.class
+userapp\Controller\AuthServlet.class
+userapp\User.class
+userapp\Utils\HibernateUtil.class
+userapp\Main.class
